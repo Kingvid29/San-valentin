@@ -3,20 +3,34 @@ var audio = document.querySelector("audio");
 var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
-var lyricsData = [ 
-{ text: "Tu cabello rizado es como un sueño encantado,", time: 15 },
-{ text: "cada rizo en su danza, un misterio delicado.", time: 18 },
-{ text: "Color canela que brilla con la luz del día,,", time: 27 },
-{ text: "como el sol que se esconde, dejando magia y poesía.", time: 32 },
-{ text: "Tu sonrisa, mi amor, es un canto divino,", time: 33 },
-{ text: "un suspiro al viento, un perfume de destino.", time: 41 },
-{ text: "Me mata de amor, cada vez que me miras,", time: 47 },
-{ text: "y en tu risa encuentro mil dulces melodías.", time: 54 },
-{ text: "Hoy celebro tu ser, tan radiante y tan pura,", time: 59 },
-{ text: "mi amor por ti es un fuego que nunca se apura.", time: 67 },
-{ text: "San Valentín no basta para expresarte lo que siento,", time: 72 },
-{ text: "pero aquí va mi corazón, en un pequeño intento.", time: 78 },
-{ text: "¡Feliz San Valentín, mi amor! 💖", time: 104 },
+var lyricsData = [
+  { text: "At the time", time: 15 },
+  { text: "The whisper of birds", time: 18 },
+  { text: "Lonely before the sun cried", time: 27 },
+  { text: "Fell from the sky", time: 32 },
+  { text: "Like water drops", time: 33 },
+  { text: "Where I'm now? I don't know why", time: 41 },
+  { text: "Nice butterflies in my hands", time: 47 },
+  { text: "Too much light for twilight", time: 54 },
+  { text: "In the mood for the flowers love", time: 59 },
+  { text: "That vision", time: 67 },
+  { text: "Really strong, blew my mind", time: 72 },
+  { text: "Silence Let me see what it was", time: 78 },
+  { text: "I only want to live in clouds", time: 83 },
+  { text: "Where I'm now? I don't know why", time: 91 },
+  { text: "Nice butterflies in my hands", time: 97 },
+  { text: "Too much light for twilight", time: 104 },
+  { text: "In the mood for the flowers love", time: 108 },
+  { text: "At the time", time: 144 },
+  { text: "The whisper of birds", time: 148 },
+  { text: "Lonely before the sun cried", time: 153 },
+  { text: "Fell from the sky", time: 158 },
+  { text: "Like water drops", time: 164 },
+  { text: "Where I'm now? I don't know why", time: 169 },
+  { text: "Nice butterflies in my hands", time: 176 },
+  { text: "Too much light for twilight", time: 183 },
+  { text: "In the mood for the flowers", time: 188 },
+  { text: "Love.", time: 140 },
 ];
 
 // Animar las letras
