@@ -4,20 +4,20 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: Tu cabello rizado es como un sueño encantado, time: 30 },
-  { text: cada rizo en su danza, un misterio delicado. time: 18 },
-  { text: Color canela que brilla con la luz del día, time: 27 },
-  { text: como el sol que se esconde, dejando magia y poesía. time: 32 },
-  { text: Tu sonrisa, mi amor, es un canto divino, time: 33 },
-  { text: un suspiro al viento, un perfume de destino. time: 41 },
-  { text: Me mata de amor, cada vez que me miras, time: 47 },
-  { text: y en tu risa encuentro mil dulces melodías. time: 54 },
-  { text: Hoy celebro tu ser, tan radiante y tan pura, time: 59 },
-  { text: mi amor por ti es un fuego que nunca se apura. time: 67 },
-  { text: San Valentín no basta para expresarte lo que siento, time: 72 },
-  { text: pero aquí va mi corazón, en un pequeño intento. time: 78 },
-  { text: ¡Feliz San Valentín, mi amor! time: 83 },
-  { text: Solo tú eres mi todo, mi razón y mi fin. time: 91 },
+  { text: "Tu cabello rizado es como un sueño encantado", time: 30 },
+  { text: "cada rizo en su danza, un misterio delicado". time: 18 },
+  { text: "Color canela que brilla con la luz del día", time: 27 },
+  { text: "como el sol que se esconde, dejando magia y poesía". time: 32 },
+  { text: "Tu sonrisa, mi amor, es un canto divino", time: 33 },
+  { text: "un suspiro al viento, un perfume de destino", time: 41 },
+  { text: "Me mata de amor, cada vez que me miras", time: 47 },
+  { text: "y en tu risa encuentro mil dulces melodías", time: 54 },
+  { text: "Hoy celebro tu ser, tan radiante y tan pura", time: 59 },
+  { text: "mi amor por ti es un fuego que nunca se apura", time: 67 },
+  { text: "San Valentín no basta para expresarte lo que siento", time: 72 },
+  { text: "pero aquí va mi corazón, en un pequeño intento". time: 78 },
+  { text: "¡Feliz San Valentín, mi amor!", time: 83 },
+  { text: "Solo tú eres mi todo, mi razón y mi fin". time: 91 },
 
 ];
 
