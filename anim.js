@@ -5,7 +5,7 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
 
-  { text: "Paola Karina, mi amor y mi alegría,", time: 30 },
+  { text: "Mi amor y mi alegría,", time: 30 },
   { text: "contigo la vida es una eterna fantasía.", time: 18 },
   { text: "Tu piel de canela brilla como el sol,", time: 27 },
   { text: "y tu risa es el ritmo que hace bailar mi corazón.", time: 32 },
