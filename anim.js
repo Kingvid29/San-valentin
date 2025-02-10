@@ -4,8 +4,6 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-
- [
   { text: Tu cabello rizado es como un sueño encantado, time: 30 },
   { text: cada rizo en su danza, un misterio delicado. time: 18 },
   { text: Color canela que brilla con la luz del día, time: 27 },
