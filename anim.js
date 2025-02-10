@@ -4,7 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Dame tu dedo índice, ponlo detrás de mi oído", time: 15 },
+  { text: "Dame tu dedo índice, ponlo detrás de mi oído", time: 30 },
   { text: "Dime, ¿sientes el latido?", time: 18 },
   { text: "Tantas personas llegaron, pero nadie con tu estilo", time: 27 },
   { text: "Eres un laberinto", time: 32 },
